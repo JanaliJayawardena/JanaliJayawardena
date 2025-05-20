@@ -16,10 +16,7 @@
 - ✨ I enjoy creating interactive UIs and designing intuitive user experiences
 
 - 🐱 **Fun Cat Fact:**  
-  Did you know cats can recognize their owner's voice, but they often choose to ignore it? Independent *and* sassy! 😼
-
-- 📫 Reach me at:  
-  [**janalijayawardena2003@gmail.com**](mailto:janalijayawardena2003@gmail.com)
+  Did you know cats can recognize their owner's voice, but they often choose to ignore it? Independent *and* sassy! 😼nalijayawardena2003@gmail.com**](mailto:janalijayawardena2003@gmail.com)
 
 ---
 

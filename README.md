@@ -15,8 +15,8 @@
 
 - ✨ I enjoy creating interactive UIs and designing intuitive user experiences
 
-💡 Fun Coding Fact:
-"Hello, World!" is often the first program written when learning a new language — it's the developer's version of “nice to meet you!” 👋
+- 💡 Fun Coding Fact:
+   "Hello, World!" is often the first program written when learning a new language — it's the developer's version of “nice to meet you!” 👋
 
 - 📫 Reach me at:  
   [**janalijayawardena2003@gmail.com**](mailto:janalijayawardena2003@gmail.com)
